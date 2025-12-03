@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NagamaniD
+- 👋 Hi, I’m @Nagamani
 - 👀 I’m interested in software testing, automation frameworks, and improving software quality.
 - 🌱 I’m currently learning advanced automation testing tools, machine learning in testing, and exploring new testing methodologies.
 - 💞️ I’m looking to collaborate on projects related to test automation, QA processes, and improving the reliability of software applications.
